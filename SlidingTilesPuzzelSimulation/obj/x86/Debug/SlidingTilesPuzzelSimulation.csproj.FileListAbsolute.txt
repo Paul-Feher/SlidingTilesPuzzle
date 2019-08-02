@@ -5,3 +5,5 @@ G:\Programming\SlidingTilesPuzzelSimulation\SlidingTilesPuzzelSimulation\obj\x86
 G:\Programming\SlidingTilesPuzzelSimulation\SlidingTilesPuzzelSimulation\obj\x86\Debug\SlidingTilesPuzzelSimulation.exe
 G:\Programming\SlidingTilesPuzzelSimulation\SlidingTilesPuzzelSimulation\obj\x86\Debug\SlidingTilesPuzzelSimulation.pdb
 G:\Programming\SlidingTilesPuzzelSimulation\SlidingTilesPuzzelSimulation\obj\x86\Debug\SlidingTilesPuzzelSimulation.Form_Main.resources
+G:\Programming\SlidingTilesPuzzle\SlidingTilesPuzzelSimulation\obj\x86\Debug\SlidingTilesPuzzelSimulation.exe
+G:\Programming\SlidingTilesPuzzle\SlidingTilesPuzzelSimulation\obj\x86\Debug\SlidingTilesPuzzelSimulation.pdb
