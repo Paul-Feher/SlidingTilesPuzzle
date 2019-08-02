@@ -27,6 +27,3 @@ namespace SlidingTilesPuzzelSimulation
     }
 }
 
-
-//something 
-
